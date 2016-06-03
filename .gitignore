@@ -1,0 +1,7 @@
+# ignore generated GCODE files
+**/*.gco
+**/*.gcode
+
+# zip files too...
+**/*.zip
+**/*.7z
